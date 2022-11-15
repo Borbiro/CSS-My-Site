@@ -1,3 +1,15 @@
+div {
+  background-color: #000000;
+  color: #CF0A0A;
+}
+
 body {
-  background-color: blue;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+h1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
